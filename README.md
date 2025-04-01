@@ -9,3 +9,5 @@ Agregar plantilla de contribución
 Este es el [link](CONTRIBUTING.md) a la plantilla
 
 Sigo trabajando
+
+Empezar a trabajar con una plantilla para Pull Requests
